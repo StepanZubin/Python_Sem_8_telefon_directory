@@ -1,4 +1,3 @@
-from re import L
 import operation as op
 import user_interface as ui
 import linecache as lin  # доступ к текстовым строкам
